@@ -13,7 +13,7 @@ A feature-rich **developer social media chat app** built entirely with **HTML, C
 
 Welcome to **DevConnect**, a lightweight, fully client-side social network for developers to **share code**, **chat**, and **connect** in a minimalist environment inspired by platforms like **Twitter**, **Slack**, and **Hashnode**.
 
-> 🔗 [Live Demo )]([https://your-live-link.com](https://preview--dev-connect-vanilla.lovable.app/))
+> 🔗 [Live Demo )]([https://preview--dev-connect-vanilla.lovable.app/])
 
 ---
 
