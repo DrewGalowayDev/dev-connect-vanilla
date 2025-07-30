@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/24cdc67b-1ed9-44b5-822e-72745cab0558
+**URL**: https://preview--dev-connect-vanilla.lovable.app/
 
 ---
 
